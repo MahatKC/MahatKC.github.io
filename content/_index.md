@@ -56,4 +56,10 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      email: mateus.karvat@queensu.ca
 ---
