@@ -111,7 +111,7 @@ social:
 highlight_name: true
 ---
 
-I am a first year Masters student in QUARRG Lab at Queen's University under [Professor Sidney Givigi](https://www.cs.queensu.ca/people/Sidney/Givigi). I did my undergrad in my hometown of Cascavel, in the south of Brazil.
+I am a first year Masters student in QUARRG Lab at Queen's University under [Professor Sidney Givigi](https://www.cs.queensu.ca/people/Sidney/Givigi). I did my undergrad at [UNIOESTE](https://unioeste.br/) in my hometown of Cascavel, in the south of Brazil.
 
 My research interests are Computer Vision and Deep Learning with applications on Autonomous Driving. More specifically, I am researching Cooperative Perception under Adverse Weather Conditions.
 
