@@ -43,12 +43,9 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
+    id: publications
     content:
       title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders:
           - publication
@@ -61,5 +58,6 @@ sections:
     content:
       title: Contact
       subtitle:
-      email: mateus.karvat@queensu.ca
+      text: |-
+        mateus.karvat@queensu.ca
 ---
