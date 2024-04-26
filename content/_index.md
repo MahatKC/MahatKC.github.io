@@ -59,5 +59,5 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        mateus.karvat@queensu.ca
+        mateus.karvat @ queensu.ca
 ---
