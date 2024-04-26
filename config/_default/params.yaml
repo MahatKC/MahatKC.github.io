@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    description: 'MSc Student at Queens University'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year}. Mateus Karvat Camara. Powered by the [Academic theme](https://github.com/HugoBlox/hugo-blox-builder) for [Hugo](https://gohugo.io/).'
     license:
       enable: true
       allow_derivatives: false
