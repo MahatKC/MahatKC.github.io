@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MSc Student@Queen's University
+role: PhD Student @ Queen's University
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -36,9 +36,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Computing
+      institution: Queen's University
+      year: 2025 - now
     - course: Masters in Computing
       institution: Queen's University
-      year: 2023 - Now
+      year: 2023 - 2025
     - course: BSc in Computer Science
       institution: UNIOESTE, Brazil
       year: 2018 - 2022
@@ -111,7 +114,7 @@ social:
 highlight_name: true
 ---
 
-I am a first year Masters student in QUARRG Lab at Queen's University under [Professor Sidney Givigi](https://www.cs.queensu.ca/people/Sidney/Givigi). I did my undergrad at [UNIOESTE](https://unioeste.br/) in my hometown of Cascavel, in the south of Brazil.
+I am a first year PhD student in QUARRG Lab at Queen's University under [Professor Sidney Givigi](https://www.cs.queensu.ca/people/Sidney/Givigi). I did my Masters at Queen's, and my undergrad at [UNIOESTE](https://unioeste.br/) in my hometown of Cascavel, in the south of Brazil.
 
 My research interests are Computer Vision and Deep Learning with applications on Autonomous Driving. More specifically, I am researching Cooperative Perception under Adverse Weather Conditions.
 
