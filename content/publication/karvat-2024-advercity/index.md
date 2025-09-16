@@ -1,6 +1,5 @@
 ---
-title: Adver-City: Open-Source Multi-Modal Dataset for 
-  Collaborative Perception Under Adverse Weather Conditions
+title: 'Adver-City: Open-Source Multi-Modal Dataset for Collaborative Perception Under Adverse Weather Conditions'
 authors:
 - Mateus Karvat Camara
 - Sidney Givigi
